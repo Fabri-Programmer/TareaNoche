@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4196A0B5-E61C-43FC-974A-69A1B602E793}|Biblioteca\\Biblioteca.csproj|c:\\users\\fabri llara\\source\\repos\\biblioteca\\biblioteca\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4196A0B5-E61C-43FC-974A-69A1B602E793}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453097CE-F13E-496C-B6D8-7A48BAA87839}|Consola\\Consola.csproj|c:\\users\\fabri llara\\source\\repos\\biblioteca\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453097CE-F13E-496C-B6D8-7A48BAA87839}|Consola\\Consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Biblioteca\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Biblioteca\\Triangulo.cs",
+              "RelativeToolTip": "Biblioteca\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:31:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Consola\\Program.cs",
+              "RelativeDocumentMoniker": "Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Consola\\Program.cs",
+              "RelativeToolTip": "Consola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:30:43.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
