@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Consola\\Consola.csproj": {}
+    "C:\\Users\\FABRI LLARA\\Documents\\Biblioteca\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Consola\\Consola.csproj": {
+    "C:\\Users\\FABRI LLARA\\Documents\\Biblioteca\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\FABRI LLARA\\Documents\\Biblioteca\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Consola\\Consola.csproj",
+        "projectPath": "C:\\Users\\FABRI LLARA\\Documents\\Biblioteca\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\FABRI LLARA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FABRI LLARA\\source\\repos\\Biblioteca\\Consola\\obj\\",
+        "outputPath": "C:\\Users\\FABRI LLARA\\Documents\\Biblioteca\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FABRI LLARA\\AppData\\Roaming\\NuGet\\NuGet.Config",
